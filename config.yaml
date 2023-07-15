@@ -1,0 +1,100 @@
+baseURL: "https://arkalim.org"
+languageCode: en-us
+title: Anusha Sonte Parameshwar
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: education
+      name: Education
+      url: /education
+      weight: 30
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 40
+    - identifier: experience
+      name: Experience
+      url: /experience
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 70
+    - identifier: certification
+      name: Certifications
+      url: /certification
+      weight: 50
+    - identifier: awards
+      name: Awards
+      url: /awards
+      weight: 60
+    
+
+params:
+  # theme
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+
+  # for enchanced SEO
+  env: production
+
+  # Home Page
+  profileMode:
+    enabled: true
+    title: "Anusha Sonte Parameshwar"
+    subtitle: Hi there 👋! I'm Anusha Sonte Parameshwar, a passionate Computer Science graduate student pursuing my [**Masters at Illinois Institute of Technology**](https://www.iit.edu/academics/programs/computer-science-ms). With 3 years of work experience in the software industry, I bring a wealth of experience and expertise to my work. My professional journey started at [**HSBC**](https://www.hsbc.com/), where I spent 2.5 years as a Software Engineer. During this time, I contributed to several complex projects, including a major rewrite of the mainframe-based modules into API-based modules that were delivered with zero defects. After that, I joined [**Salesforce**](https://www.salesforce.com/) as a Development Success Engineer, where I honed my problem-solving skills by resolving development issues for end-users. This role also gave me opportunities to interact with customers and understand their needs and pain points in detail. When I'm not coding, I enjoy reading books and exploring new technologies.
+    imageUrl: "home/me.jpeg"
+    imageWidth: 220
+    imageHeight: 220
+    # buttons:
+    #   - name: Resume
+    #     url: ""
+
+  # List View
+  hideDescriptionInList: false
+
+  # cover image for posts
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:anusha.sonte@gmail.com"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/anushasp/"
+    - name: "github"
+      url: "https://github.com/anushasonte"
+    - name: "cv"
+      url: "https://drive.google.com/file/d/1PL9R2xosERp6XGIu5flCHXoLBqkDVi-8/view"
+
+  # text search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
