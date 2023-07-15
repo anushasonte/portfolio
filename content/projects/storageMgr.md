@@ -8,6 +8,8 @@ showToc: false
 weight: 205
 --- 
 
+#### 🔗 [View Project](https://github.com/anushasonte/ADO/tree/main/StorageHandler)
+
 ## Description
 The purpose of this project is to implement a simple storage manager - a module that is capable of reading blocks from a file on disk into memory and writing blocks from memory to a file on disk. The storage manager deals with pages of fixed size. In addition to reading and writing pages from a file, it provides methods for creating, opening, and closing files. The storage manager maintains several types of information for an open file: The number of total pages in the file, the current page position (for reading and writing), the file name, and a POSIX file descriptor or FILE pointer. Error codes are maintained in a separate file dberror.h and test cases are implemented from test_helper.h.
 
