@@ -8,6 +8,8 @@ showToc: false
 weight: 206
 --- 
 
+#### 🔗 [View Project](https://github.com/anushasonte/libraryManagementSystem)
+
 ## Description
 This project revolves around the development of a PostgreSQL database management system. The main objectives include creating the necessary schema and tables within the database, as well as designing a frontend interface to interact with the database. To achieve this, a combination of technologies such as Spring Boot, JPA repository, and ReactJS library were utilized. 
 Three different UI components have been developed for different dashboard views to different members.
