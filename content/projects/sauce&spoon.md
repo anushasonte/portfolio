@@ -1,5 +1,5 @@
 ---
-title: "Sauce and Spoon - Project management"
+title: "Sauce & Spoon - Project management"
 description: "Capstone project as part of Google Project Management Certification"
 dateString: Jun 2023 - Jul 2023
 draft: false
