@@ -8,6 +8,9 @@ showToc: false
 weight: 200
 --- 
 
+The following documents have been generated as a result of this project:
+#### 🔗 [Show Project Archive](https://drive.google.com/drive/folders/1j9HBI-4zA8ZisbmFEP8IiAZhshEh_Gqe?usp=sharing)
+
 ## Description
 This is a capstone project as part of Google project management certification. As part of this project:
 - Analyzed documents, conducted research and applied strategic thinking to develop the project charter.
