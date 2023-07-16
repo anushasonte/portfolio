@@ -8,6 +8,8 @@ showToc: false
 weight: 201
 --- 
 
+#### 🔗 [Show Project Archive](https://drive.google.com/drive/folders/1ccGFIp8NiaybTsGitOVi2ZYlIrsFJVXq?usp=drive_link)
+
 ## Description
 As a part of Google Project Management Certification course, I have managed this project to demonstrate my proficiency in project management methodologies and techniques.
 - Developed project charter, displaying strong strategic planning and project initialization skills.
