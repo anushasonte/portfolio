@@ -1,5 +1,5 @@
 ---
-title: "Cambridge English Certificate in ESOL International - Vantage"
+title: "Cambridge Business English Certificate in ESOL International - Vantage"
 description: "University of Cambridge"
 dateString: May 2018
 draft: false
