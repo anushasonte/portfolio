@@ -6,6 +6,8 @@ draft: false
 showToc: false
 weight: 102
 --- 
+Grade: First Class with Distinction
+
 #### 🔗 [Degree Certificate](https://drive.google.com/file/d/1iupv1bmLDsLQ9TylXzLv3wTsO7mlqZ8T/view?usp=sharing)
 
 ### Description
