@@ -1,5 +1,5 @@
 ---
-title: "Google project Management Certificate"
+title: "Google Project Management Certificate"
 description: "Coursera"
 dateString: Mar 2023
 draft: false
