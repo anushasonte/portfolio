@@ -1,7 +1,7 @@
 ---
 title: "Graduate Research Assistant"
 description: "Illinois Institute of Technology (Chicago, IL)"
-dateString: June 2022 - Ongoing
+dateString: June 2023 - Ongoing
 draft: false
 tags: ["CUDA", "GPGPU", "Kubernetes", "Dafny"]
 showToc: false
