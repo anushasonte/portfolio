@@ -6,6 +6,7 @@ draft: false
 showToc: false
 weight: 101
 --- 
+Grade: 3.9/4.0
 
 ### Description
 #### Activities and societies: 
