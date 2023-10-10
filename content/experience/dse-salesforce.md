@@ -10,9 +10,10 @@ weight: 302
 
 ### Description
 
-- Providing technical support and troubleshooting assistance to developers, ensuring smooth and efficient usage of Salesforce platforms and APIs.
-- Assisting customers in identifying and implementing solutions to meet their specific business requirements, leveraging Salesforce's extensive suite of tools and technologies.
-- Effectively resolved developer support cases encompassing Apex programming, Triggers, Batch jobs, Visualforce, Flows, Process Builder, and REST and SOAP API calls, showcasing comprehensive expertise in Salesforce development technologies.
+- Effectively resolved developer support cases encompassing Apex programming, Triggers, Batch jobs, Visualforce, Flows, Process Builder, and REST and SOAP API calls.
+- Effectively collaborated with cross-functional teams to address challenging product-related issues, resulting in a 10% decrease in escalated cases.
+- Received consistently positive feedback from customers, with an average customer satisfaction rating of 4.8 out of 5, reflecting strong communication skills and a customer-centric approach.
+- Proficiently used Agile methodologies like Scrum, managed project tasks in Jira, and collaborated on documentation in Confluence to ensure efficient development cycles within the SDLC.
 - Conducting in-depth analysis of code and configurations to identify root causes of issues and providing detailed recommendations for resolution.
 - Proactively identifying and escalating product bugs and feature enhancements to the appropriate teams, driving improvements to the Salesforce platform's overall reliability and user experience.
 - Participating in on-call rotations to provide round-the-clock support to critical customer issues, demonstrating a strong sense of responsibility and dedication to customer success.
