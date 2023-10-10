@@ -14,6 +14,7 @@ Grade: 3.9/4.0
 #### Courses: 
 - Semester 1: Software engineering, Database organization, Software testing and quality assurance
 - Semester 2: Advanced database organization, Computer networks, Science of programming
+- Semester 3: Software Project Management, Information Security, BigData Technologies
 
 <!-- ### Description -->
 
