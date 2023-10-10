@@ -74,7 +74,7 @@ params:
     - name: "github"
       url: "https://github.com/anushasonte"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1PL9R2xosERp6XGIu5flCHXoLBqkDVi-8/view"
+      url: "https://drive.google.com/file/d/1rprOkBCSdWthbB-1rJd_pB8bEe5Et_ji/view"
 
   # text search
   fuseOpts:
