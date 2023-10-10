@@ -11,11 +11,11 @@ weight: 303
 
 ## Description
 
-- Revised, modularized and updated old code bases i.e., from mainframe based to API based right from developing API using Mule + Java + Spring boot, accessing data from Oracle database using Hibernate to deploying it using Jenkins and performance testing using J-Meter. 
-- Recognized as Subject Matter expert for Reports and Files Download tool for both clients and internal team members. 
-- Proactively contributed to the improvement of existing systems, optimizing performance, and enhancing user experience by developing API that automates customer whitelisting. This process which used to take 2-3 hours earlier and was error prone can now be done in less than 6 seconds with no errors.
-- Independently implemented a seamless MD5 to SHA-2 migration process, enhancing data security and mitigating collision attacks, while ensuring accuracy, reliability, and efficiency through rigorous testing and quality assurance measures.
-- Consistently resolved all production issues in a timely manner, ensuring uninterrupted system performance and minimizing downtime.
+- Revised, modularized and updated old code bases i.e., from mainframe based to API based right from  developing API using Mule + Java + Spring boot, accessing data from Oracle DB, Mongo DB using Hibernate to deploying it using Jenkins and performance testing using J-Meter.
+- Proactively contributed to the improvement of existing systems, optimizing performance, and enhancing user experience by developing an API that automates customer whitelisting. This process which used to take 2-3 hours earlier and was error prone can now be done in less than 6 seconds with no errors.
+- Independently led and executed a seamless MD5 to SHA-2 migration process, achieving a 100% successful migration rate for all impacted data.
+- Leveraged JPA for efficient object-relational mapping and database access in Java applications.
+- Implemented Spring Security for role-based authentication and authorization in Java applications.
 - Utilized Checkmarx and SonarQube tools to actively monitor unit testing progress and identify vulnerabilities in code, ensuring robust software quality.
-- Actively contributed to the enhancement of company-wide processes and methodologies, driving efficiency and promoting a culture of continuous improvement.
-- Led knowledge transfer sessions and spearheaded the fun committee, organizing stress-relieving events to create a vibrant and engaging work environment.
+- Configured and used logging framework Log4j to capture and analyze application logs.
+- Configured CI/CD pipelines by employing tools such as Jenkins to automate the testing and deployment processes.
