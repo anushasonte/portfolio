@@ -51,7 +51,7 @@ params:
     enabled: true
     title: "Anusha Sonte Parameshwar"
     subtitle: "Hi there 👋! I'm Anusha Sonte Parameshwar, currently pursuing my [**Masters in Computer Science**](https://www.iit.edu/academics/programs/computer-science-ms) at esteemed Illinois Institute of Technology. With 4 years of work experience in the Software industry, I bring a wealth of experience and expertise to my work. My professional journey started at [**HSBC**](https://www.hsbc.co.in/), where I spent 2.5 years as a Software Engineer. During this time, I contributed to several complex projects, including a major rewrite of the mainframe-based modules into API-based modules that were delivered with zero defects. After that, I joined [**Salesforce**](https://www.salesforce.com/) as a Development Success Engineer, where I honed my problem-solving skills by resolving development issues for end-users. This role also gave me opportunities to interact with customers and understand their needs and pain points in detail. I also completed a one-year internship at [**ADP India**](https://in.adp.com/), where I designed and deployed microservices, utilized Java frameworks, and optimized SQL queries. When I'm not coding, I enjoy reading books and exploring new technologies."    
-    imageUrl: "home/me.jpeg"
+    imageUrl: "home/Updated Profiile Pic.png"
     imageWidth: 220
     imageHeight: 220
     # buttons:
